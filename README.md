@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/luizwynne/example-app-azure/_apis/build/status/example-app-azure?branchName=main)](https://dev.azure.com/luizwynne/example-app-azure/_build/latest?definitionId=2&branchName=main)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
